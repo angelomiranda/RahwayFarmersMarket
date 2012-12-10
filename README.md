@@ -1,10 +1,14 @@
 <h1>Rahway Farmers Market</h1>
 
-<p>This fictional website created as a sample project only.</p>
+<p>This fictional website was created as a sample project only.</p>
 
 <p>Contents are not real.</p>
 
-<p>To use simply clone the repo or download the zip file and run index.html in any browser.</p>
+<p>To use: </p>
+<p>Simply clone the repo and open any html files or </p>
+<p>download the zip file, unzip and open any html files. </p>
+
+<p>Thanks for viewing!<p>
 
 
 
