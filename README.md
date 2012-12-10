@@ -1,4 +1,4 @@
-<h1><em>Rahway Farmers Market</em></h1>
+## Rahway Farmers Market 
 
 <p>This fictional website was created as a sample project only.</p>
 
