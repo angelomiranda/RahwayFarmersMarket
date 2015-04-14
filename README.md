@@ -5,11 +5,9 @@
 <p>Contents are not real.</p>
 
 <div>
-  <p>To use: </p>
-  <p>Simply clone the repo and open any html files or </p>
-  <p>download the zip file, unzip and open any html files. </p>
+  <p>My Very First Website - the noob days...</p>
 </div>
-<p>Thanks for viewing!<p>
+
 
 
 
