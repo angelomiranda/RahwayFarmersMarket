@@ -5,7 +5,7 @@
 <p>Contents are not real.</p>
 
 <div>
-  <p>My Very First Website - the noob days...</p>
+  <p>My Very First Website - used this as portfolio to land my first job #memories</p>
 </div>
 
 
